@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,900;1,800;1,900&display=swap");
+
+.kanit-regular {
+  font-family: "Kanit", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.kanit-black {
+  font-family: "Kanit", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.kanit-extrabold-italic {
+  font-family: "Kanit", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.kanit-black-italic {
+  font-family: "Kanit", serif;
+  font-weight: 900;
+  font-style: italic;
+}
